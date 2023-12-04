@@ -1,0 +1,20 @@
+Conditional statements-Statements that are used to make 
+decisions based on certain conditions. 
+They allow the code to execute different actions 
+depending on whether a specified condition evaluates to true or false.
+
+Syntax:
+
+if (condition) {
+    // code to execute if the condition is true
+} else {
+    // code to execute if the condition is false
+}
+
+eg:
+ if(x>5){
+    console.log("Condition is true");
+ }
+ else{
+    console.log("Condition is false");
+ }

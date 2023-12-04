@@ -1,0 +1,12 @@
+Loops- Structures used to execute a 
+block of code repeatedly as long as a specified condition is true. 
+
+Syntax:
+for (initialization; condition; iteration) {
+    // code to be executed
+}
+
+Eg:
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
